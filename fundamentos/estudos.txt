@@ -1,0 +1,14 @@
+Modulo 4: Fundamentos
+
+Algoritimo: pode ter repeticao, decisao e sequencia de passos
+
+Estrutura de dados: organizar e administrar os dados
+FIFO
+LIFO
+Estrutura básica de dados:variaveis e constantes
+int, real, letra, bool
+
+Organizacao basica do codigo:
+
+Executando JavaScript: 
+
