@@ -1,0 +1,25 @@
+{
+  "name": "course_javascript",
+  "version": "1.0.0",
+  "description": "Repository for group javascript learning",
+  "main": "node/projeto/src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamarafontanella/javascript_course.git"
+  },
+  "author": "Tamara Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamarafontanella/javascript_course/issues"
+  },
+  "homepage": "https://github.com/tamarafontanella/javascript_course#readme",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "nodemon": "^2.0.20"
+  }
+}

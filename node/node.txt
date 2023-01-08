@@ -1,0 +1,3 @@
+Node.js system
+
+- Aplication + V8 (engenharia javascript)+ LibUV (assincrono)
